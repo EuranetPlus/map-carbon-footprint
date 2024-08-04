@@ -1,12 +1,12 @@
 {
-  "heading": "Empreinte carbone des citoyens européens",
-  "subheading": "Émissions totales de gaz à effet de serre par habitant dans l'UE en 2019",
+  "heading": "Quelle est l’empreinte carbone de chaque citoyen européen ?",
+  "subheading": "En 2022, les émissions totales de gaz à effet de serre par habitant dans l’UE27 s’élevaient à 7,01 kt d’équivalent CO2. Une baisse de 6,78% par rapport au niveau de 2019.",
   "legend1": "Pas de données disponibles",
-  "tooltip1": "kt équivalent CO2",
-  "textSourceDescription": "La source",
+  "tooltip1": "kt d'équivalent CO2",
+  "textSourceDescription": "Source",
   "textSource": "EEE",
-  "textNoteDescription": "Noter",
-  "textNote": "Visualiseur de données sur les émissions et absorptions de gaz à effet de serre, envoyé par les pays à la CCNUCC et au mécanisme de surveillance des gaz à effet de serre de l'UE (États membres de l'UE).",
+  "textNoteDescription": "Note",
+  "textNote": "Visualiseur de données sur les émissions et les absorptions de gaz à effet de serre, envoyées par les pays à la CCNUCC et au mécanisme de surveillance des gaz à effet de serre de l'UE (États membres de l'UE).",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Huella de carbono de los ciudadanos europeos",
-  "subheading": "Emisiones totales de gases de efecto invernadero per cápita en la UE en 2019",
+  "heading": "¿A qué altura es la huella de carbono de cada ciudadano europeo?",
+  "subheading": "En 2022, las emisiones totales de gases de efecto invernadero per cápita en la UE27 fueron de 7,01 kt de CO2 equivalente. Una disminución del 6,78% respecto al nivel de 2019.",
   "legend1": "Datos no disponibles",
   "tooltip1": "kt CO2 equivalente",
   "textSourceDescription": "Fuente",
   "textSource": "EEE",
   "textNoteDescription": "Nota",
-  "textNote": "Visor de datos sobre emisiones y absorciones de gases de efecto invernadero, enviados por los países a la CMNUCC y al Mecanismo de Vigilancia de Gases de Efecto Invernadero de la UE (Estados miembros de la UE).",
+  "textNote": "Visor de datos sobre emisiones y absorciones de gases de efecto invernadero, enviados por los países a la CMNUCC y al Mecanismo de Monitoreo de Gases de Efecto Invernadero de la UE (Estados miembros de la UE).",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

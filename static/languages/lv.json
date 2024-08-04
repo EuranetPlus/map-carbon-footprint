@@ -1,12 +1,12 @@
 {
-  "heading": "Eiropas iedzīvotāju oglekļa pēdas nospiedums",
-  "subheading": "Kopējās siltumnīcefekta gāzu emisijas uz vienu iedzīvotāju ES 2019. gadā",
+  "heading": "Cik liels ir katra Eiropas iedzīvotāja oglekļa pēdas nospiedums?",
+  "subheading": "2022. gadā kopējās siltumnīcefekta gāzu emisijas uz vienu iedzīvotāju ES27 valstīs bija 7,01 kt CO2 ekvivalenta. 6,78% samazinājums līdz 2019. gada līmenim.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "kt CO2 ekvivalents",
   "textSourceDescription": "Avots",
   "textSource": "EEZ",
   "textNoteDescription": "Piezīme",
-  "textNote": "Datu skatītājs par siltumnīcefekta gāzu emisijām un piesaisti, ko valstis nosūtījušas UNFCCC un ES siltumnīcefekta gāzu monitoringa mehānismam (ES dalībvalstis).",
+  "textNote": "Datu skatītājs par siltumnīcefekta gāzu emisijām un piesaisti, ko valstis nosūtījušas UNFCCC un ES siltumnīcefekta gāzu uzraudzības mehānismam (ES dalībvalstis).",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

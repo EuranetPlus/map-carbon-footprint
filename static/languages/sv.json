@@ -1,12 +1,12 @@
 {
-  "heading": "Europas medborgares koldioxidavtryck",
-  "subheading": "Totala växthusgasutsläpp per capita i EU 2019",
+  "heading": "Hur högt är koldioxidavtrycket för varje europeisk medborgare?",
+  "subheading": "År 2022 var de totala utsläppen av växthusgaser per capita i EU27 7,01 kt CO2-ekvivalenter. En minskning med 6,78 % till 2019 års nivå.",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "kt CO2-ekvivalent",
   "textSourceDescription": "Källa",
   "textSource": "EES",
   "textNoteDescription": "Notera",
-  "textNote": "Datavisare om utsläpp och borttag av växthusgaser, skickat av länder till UNFCCC och EU:s övervakningsmekanism för växthusgaser (EU:s medlemsstater).",
+  "textNote": "Datavisare om utsläpp och avlägsnande av växthusgaser, skickat av länder till UNFCCC och EU:s övervakningsmekanism för växthusgaser (EU:s medlemsstater).",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

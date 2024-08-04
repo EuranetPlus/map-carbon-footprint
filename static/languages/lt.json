@@ -1,12 +1,12 @@
 {
-  "heading": "Europos piliečių anglies pėdsakas",
-  "subheading": "Bendras šiltnamio efektą sukeliančių dujų kiekis, tenkantis vienam ES gyventojui 2019 m",
+  "heading": "Koks yra kiekvieno Europos piliečio anglies pėdsakas?",
+  "subheading": "2022 m. bendras šiltnamio efektą sukeliančių dujų išmetimas vienam gyventojui ES-27 buvo 7,01 kt CO2 ekvivalento. 6,78% sumažėjo iki 2019 m. lygio.",
   "legend1": "Nėra duomenų",
   "tooltip1": "kt CO2 ekvivalentas",
   "textSourceDescription": "Šaltinis",
   "textSource": "EEE",
   "textNoteDescription": "Pastaba",
-  "textNote": "Duomenų peržiūros priemonė apie šiltnamio efektą sukeliančių dujų išmetimą ir pašalinimą, siunčiama šalių į JTBKKK ir ES šiltnamio efektą sukeliančių dujų stebėsenos mechanizmą (ES valstybės narės).",
+  "textNote": "Duomenų peržiūros priemonė apie šiltnamio efektą sukeliančių dujų išmetimą ir pašalinimą, kurią šalys siunčia JTBKKK ir ES šiltnamio efektą sukeliančių dujų stebėsenos mechanizmui (ES valstybės narės).",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

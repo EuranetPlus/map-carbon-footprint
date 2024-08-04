@@ -1,12 +1,12 @@
 {
-  "heading": "CO2-voetafdruk van Europese burgers",
-  "subheading": "Totale uitstoot van broeikasgassen per hoofd van de bevolking in de EU in 2019",
+  "heading": "Hoe hoog is de ecologische voetafdruk van elke Europese burger?",
+  "subheading": "In 2022 bedroeg de totale uitstoot van broeikasgassen per hoofd van de bevolking in de EU27 7,01 kt CO2-equivalent. Een daling van 6,78% naar het niveau van 2019.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "kt CO2-equivalent",
   "textSourceDescription": "Bron",
   "textSource": "EER",
   "textNoteDescription": "Opmerking",
-  "textNote": "Dataviewer over de uitstoot en verwijdering van broeikasgassen, verzonden door landen naar UNFCCC en het EU Greenhouse Gas Monitoring Mechanism (EU-lidstaten).",
+  "textNote": "Gegevensviewer over de uitstoot en verwijdering van broeikasgassen, verzonden door landen naar UNFCCC en het EU Greenhouse Gas Monitoring Mechanism (EU-lidstaten).",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

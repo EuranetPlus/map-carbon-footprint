@@ -1,12 +1,12 @@
 {
-  "heading": "Impronta di carbonio dei cittadini europei",
-  "subheading": "Emissioni totali di gas serra pro capite nell'UE nel 2019",
+  "heading": "Qual è l'impronta di carbonio di ogni cittadino europeo?",
+  "subheading": "Nel 2022 le emissioni totali di gas serra pro capite nell’UE27 sono state pari a 7,01 kt di CO2 equivalenti. Una diminuzione del 6,78% rispetto al livello del 2019.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "kt CO2 equivalente",
+  "tooltip1": "kt di CO2 equivalente",
   "textSourceDescription": "Fonte",
   "textSource": "SEE",
   "textNoteDescription": "Nota",
-  "textNote": "Visualizzatore di dati sulle emissioni e gli assorbimenti di gas serra, inviati dai paesi all'UNFCCC e al meccanismo di monitoraggio dei gas a effetto serra dell'UE (Stati membri dell'UE).",
+  "textNote": "Visualizzatore di dati sulle emissioni e sugli assorbimenti di gas a effetto serra, inviati dai paesi all'UNFCCC e al meccanismo di monitoraggio dei gas a effetto serra dell'UE (Stati membri dell'UE).",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

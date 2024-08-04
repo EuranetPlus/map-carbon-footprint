@@ -1,12 +1,12 @@
 {
-  "heading": "Ogljični odtis evropskih državljanov",
-  "subheading": "Skupne emisije toplogrednih plinov na prebivalca v EU v letu 2019",
-  "legend1": "Podatkov ni na voljo",
-  "tooltip1": "kt ekvivalenta CO2",
+  "heading": "Kako visok je ogljični odtis vsakega evropskega državljana?",
+  "subheading": "Leta 2022 so skupni izpusti toplogrednih plinov na prebivalca v EU27 znašali 7,01 kt ekvivalenta CO2. 6,78 % znižanje na raven iz leta 2019.",
+  "legend1": "Podatki niso na voljo",
+  "tooltip1": "kt CO2 ekvivalent",
   "textSourceDescription": "Vir",
   "textSource": "EGP",
   "textNoteDescription": "Opomba",
-  "textNote": "Pregledovalnik podatkov o emisijah in odstranjevanju toplogrednih plinov, ki so jih države poslale UNFCCC in mehanizmu EU za spremljanje toplogrednih plinov (države članice EU).",
-  "textDataAccess": "Dostop do podatkov",
+  "textNote": "Pregledovalnik podatkov o emisijah in odvzemih toplogrednih plinov, ki jih države pošljejo UNFCCC in mehanizmu EU za spremljanje toplogrednih plinov (države članice EU).",
+  "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

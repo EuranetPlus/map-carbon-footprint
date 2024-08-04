@@ -1,12 +1,12 @@
 {
-  "heading": "Ugljični otisak europskih građana",
-  "subheading": "Ukupne emisije stakleničkih plinova po stanovniku u EU u 2019",
+  "heading": "Koliki je ugljični otisak svakog europskog građanina?",
+  "subheading": "Godine 2022. ukupna emisija stakleničkih plinova po stanovniku u EU27 iznosila je 7,01 kt CO2 ekvivalenta. Pad od 6,78% u odnosu na 2019. godinu.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "kt CO2 ekvivalent",
   "textSourceDescription": "Izvor",
-  "textSource": "EEA",
+  "textSource": "EGP",
   "textNoteDescription": "Bilješka",
-  "textNote": "Preglednik podataka o emisijama i uklanjanju stakleničkih plinova, koje zemlje šalju UNFCCC-u i Mehanizmu za praćenje stakleničkih plinova EU (države članice EU).",
-  "textDataAccess": "Pristup podacima",
+  "textNote": "Preglednik podataka o emisijama i uklanjanju stakleničkih plinova, koje zemlje šalju UNFCCC-u i EU mehanizmu za praćenje stakleničkih plinova (države članice EU).",
+  "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }
