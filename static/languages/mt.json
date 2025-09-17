@@ -1,12 +1,12 @@
 {
   "heading": "Kemm hi għolja l-impronta tal-karbonju ta' kull ċittadin Ewropew?",
-  "subheading": "Fl-2022 l-emissjonijiet totali ta' gassijiet serra per capita fl-UE27 kienu ekwivalenti għal 7.01 kt CO2. Tnaqqis ta’ 6.78% għal-livell tal-2019.",
-  "legend1": "Ebda data disponibbli",
-  "tooltip1": "kt CO2 ekwivalenti",
+  "subheading": "Fl-2022 l-emissjonijiet totali ta' gassijiet serra per capita fl-UE27 kienu ta' 7.01 kt ekwivalenti ta' CO2. Tnaqqis ta' 6.78% meta mqabbel mal-livell tal-2019.",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "kt ekwivalenti tas-CO2",
   "textSourceDescription": "Sors",
   "textSource": "ŻEE",
   "textNoteDescription": "Nota",
-  "textNote": "Telespettatur tad-dejta dwar l-emissjonijiet u t-tneħħija tal-gassijiet serra, mibgħuta mill-pajjiżi lill-UNFCCC u lill-Mekkaniżmu tal-UE għall-Monitoraġġ tal-Gassijiet Serra (l-Istati Membri tal-UE).",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Viżwalizzatur tad-dejta dwar l-emissjonijiet u t-tneħħija ta' gassijiet serra, mibgħut mill-pajjiżi lill-UNFCCC u lill-Mekkaniżmu ta' Monitoraġġ tal-Gassijiet Serra tal-UE (Stati Membri tal-UE).",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

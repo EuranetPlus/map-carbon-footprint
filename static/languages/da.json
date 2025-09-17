@@ -1,12 +1,12 @@
 {
-  "heading": "Hvor højt er CO2-fodaftrykket for hver europæisk borger?",
-  "subheading": "I 2022 var den samlede drivhusgasemission pr. indbygger i EU27 7,01 kt CO2-ækvivalent. Et fald på 6,78 % til niveauet i 2019.",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Hvor stort er CO2-aftrykket for hver enkelt europæisk borger?",
+  "subheading": "I 2022 var de samlede drivhusgasemissioner pr. indbygger i EU27 7,01 kt CO2-ækvivalenter. Et fald på 6,78 % i forhold til niveauet i 2019.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "kt CO2-ækvivalent",
   "textSourceDescription": "Kilde",
   "textSource": "EØS",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Datafremviser om drivhusgasemissioner og -fjernelser, sendt af lande til UNFCCC og EU's drivhusgasovervågningsmekanisme (EU-medlemsstater).",
-  "textDataAccess": "Få adgang til data",
+  "textNoteDescription": "Note",
+  "textNote": "Dataviser om drivhusgasemissioner og -optag, sendt af lande til UNFCCC og EU's drivhusgasovervågningsmekanisme (EU-medlemsstater).",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Aká vysoká je uhlíková stopa každého európskeho občana?",
-  "subheading": "V roku 2022 boli celkové emisie skleníkových plynov na obyvateľa v EÚ27 7,01 kt ekvivalentu CO2. Oproti roku 2019 ide o pokles o 6,78 %.",
+  "subheading": "V roku 2022 predstavovali celkové emisie skleníkových plynov na obyvateľa v EÚ27 7,01 kt ekvivalentu CO2. To predstavuje pokles o 6,78 % oproti úrovni z roku 2019.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "kt ekvivalent CO2",
+  "tooltip1": "kt ekvivalentu CO2",
   "textSourceDescription": "Zdroj",
-  "textSource": "EEA",
+  "textSource": "EHP",
   "textNoteDescription": "Poznámka",
-  "textNote": "Prehliadač údajov o emisiách a záchytoch skleníkových plynov, ktoré krajiny posielajú UNFCCC a mechanizmu EÚ na monitorovanie skleníkových plynov (členské štáty EÚ).",
+  "textNote": "Prehliadač údajov o emisiách a záchytoch skleníkových plynov, ktoré krajiny zasielajú do Rámcového dohovoru OSN o zmene klímy (UNFCCC) a mechanizmu EÚ na monitorovanie skleníkových plynov (členské štáty EÚ).",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

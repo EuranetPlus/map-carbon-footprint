@@ -1,12 +1,12 @@
 {
   "heading": "Qual é a pegada de carbono de cada cidadão europeu?",
-  "subheading": "Em 2022, o total de emissões de gases com efeito de estufa per capita na UE27 foi de 7,01 kt de equivalente CO2. Uma queda de 6,78% em relação ao nível de 2019.",
-  "legend1": "Não há dados disponíveis",
+  "subheading": "Em 2022, o total de emissões de gases de efeito estufa per capita na UE-27 foi de 7,01 kt de CO2 equivalente. Uma redução de 6,78% em relação ao nível de 2019.",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "kt CO2 equivalente",
   "textSourceDescription": "Fonte",
   "textSource": "EEE",
   "textNoteDescription": "Observação",
-  "textNote": "Visualizador de dados sobre emissões e remoções de gases com efeito de estufa, enviados pelos países à UNFCCC e ao Mecanismo de Monitorização de Gases com Efeito de Estufa da UE (Estados-Membros da UE).",
+  "textNote": "Visualizador de dados sobre emissões e remoções de gases de efeito estufa, enviados pelos países à UNFCCC e ao Mecanismo de Monitoramento de Gases de Efeito Estufa da UE (Estados-Membros da UE).",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

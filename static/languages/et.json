@@ -1,12 +1,12 @@
 {
   "heading": "Kui suur on iga Euroopa kodaniku süsiniku jalajälg?",
-  "subheading": "2022. aastal oli kasvuhoonegaaside koguheide elaniku kohta EL27s 7,01 kt CO2 ekvivalenti. 6,78% langus 2019. aasta tasemele.",
-  "legend1": "Andmed puuduvad",
+  "subheading": "2022. aastal oli EL 27 kasvuhoonegaaside koguheide elaniku kohta 7,01 kt CO2 ekvivalenti. See on 6,78% vähenemine võrreldes 2019. aasta tasemega.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "kt CO2 ekvivalenti",
   "textSourceDescription": "Allikas",
   "textSource": "EMP",
-  "textNoteDescription": "Märge",
-  "textNote": "Andmete vaataja kasvuhoonegaaside heitkoguste ja sidumise kohta, mille riigid on saatnud ÜRO kliimamuutuste raamkonventsioonile ja ELi kasvuhoonegaaside seiremehhanismile (ELi liikmesriigid).",
+  "textNoteDescription": "Märkus",
+  "textNote": "Kasvuhoonegaaside heitkoguste ja sidumise andmete vaatur, mille riigid on saatnud ÜRO kliimamuutuste raamkonventsioonile ja ELi kasvuhoonegaaside seiremehhanismile (ELi liikmesriigid).",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

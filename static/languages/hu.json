@@ -1,12 +1,12 @@
 {
-  "heading": "Milyen magas az egyes európai polgárok szénlábnyoma?",
-  "subheading": "2022-ben az egy főre jutó üvegházhatású gázok teljes kibocsátása az EU-27-ben 7,01 kt CO2-egyenérték volt. 6,78%-os csökkenés 2019-hez képest.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "kt CO2 egyenérték",
+  "heading": "Mekkora egy európai polgár szénlábnyoma?",
+  "subheading": "2022-ben az EU27 teljes üvegházhatású gázkibocsátása fejenként 7,01 kt CO2-egyenérték volt. Ez 6,78%-os csökkenést jelent a 2019-es szinthez képest.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "kt CO2-egyenérték",
   "textSourceDescription": "Forrás",
   "textSource": "EGT",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az országok által az UNFCCC-nek és az EU üvegházhatású gázok megfigyelési mechanizmusának (EU-tagállamok) elküldött adatmegjelenítője az üvegházhatású gázok kibocsátásáról és eltávolításáról.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az üvegházhatású gázok kibocsátásáról és elnyeléséről szóló adatok megtekintője, amelyet az országok az UNFCCC-nek és az EU üvegházhatású gázok kibocsátását nyomon követő mechanizmusának küldtek (uniós tagállamok).",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }

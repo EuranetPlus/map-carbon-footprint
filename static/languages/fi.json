@@ -1,12 +1,12 @@
 {
-  "heading": "Kuinka suuri on jokaisen Euroopan kansalaisen hiilijalanjälki?",
-  "subheading": "Vuonna 2022 EU27:n kokonaiskasvihuonekaasupäästöt asukasta kohden olivat 7,01 kt CO2-ekvivalenttia. 6,78 % laskua vuoden 2019 tasolle.",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "kt CO2 ekvivalenttia",
+  "heading": "Kuinka suuri on kunkin eurooppalaisen kansalaisen hiilijalanjälki?",
+  "subheading": "Vuonna 2022 EU27:n kasvihuonekaasupäästöjen kokonaismäärä henkeä kohti oli 7,01 kt CO2-ekvivalenttia. Tämä on 6,78 %:n lasku vuoden 2019 tasoon verrattuna.",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "kt CO2-ekvivalenttia",
   "textSourceDescription": "Lähde",
   "textSource": "ETA",
   "textNoteDescription": "Huomautus",
-  "textNote": "Maiden UNFCCC:lle ja EU:n kasvihuonekaasujen seurantamekanismille (EU:n jäsenvaltiot) lähettämä datakatseluohjelma kasvihuonekaasupäästöistä ja -poiminnoista.",
+  "textNote": "Kasvihuonekaasupäästöjä ja -poistumia koskeva datan katseluohjelma, jonka maat lähettävät YK:n ilmastosopimukselle ja EU:n kasvihuonekaasujen seurantamekanismille (EU:n jäsenvaltiot).",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.eea.europa.eu/data-and-maps/data/data-viewers/greenhouse-gases-viewer"
 }
